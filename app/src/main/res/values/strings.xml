@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Carflix</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Verlauf</string>
+    <string name="menu_slideshow">Ladestationen</string>
+    <string name="button">Button</string>
+
+    <string-array name="cars">
+        <item>Tesla</item>
+        <item>Volkswagen</item>
+        <item>Mercedes</item>
+        <item>Volvo</item>
+        <item>Honda</item>
+        <item>Lada</item>
+        <item>BMW</item>
+        <item>Nissan</item>
+    </string-array>
+
+    <string-array name="tesla">
+        <item>S</item>
+        <item>3</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>CyberTruck</item>
+    </string-array>
+
+    <string-array name="volkswagen">
+        <item>Passat</item>
+        <item>Golf</item>
+        <item>Polo</item>
+    </string-array>
+
+    <string-array name="bmw">
+        <item>1er</item>
+        <item>M135i</item>
+        <item>2er Coupe</item>
+        <item>M240i</item>
+        <item>3er</item>
+    </string-array>
+
+    <string-array name="mercedes">
+        <item>A-Klasse</item>
+        <item>B-Klasse</item>
+        <item>EQE Limousine</item>
+        <item>EQS Limousine</item>
+        <item>E-Klasse</item>
+    </string-array>
+
+    <string-array name="lada">
+    <item>Granta</item>
+    <item>Kalina</item>
+    <item>Niva</item>
+    <item>Priora</item>
+    <item>Samara</item>
+    </string-array>
+
+    <string-array name="volvo">
+        <item>C40</item>
+        <item>S60</item>
+        <item>XC40</item>
+        <item>XC60</item>
+        <item>XC90</item>
+    </string-array>
+
+    <string-array name="nissan">
+        <item>Ariya</item>
+        <item>e-NV200</item>
+        <item>GT-R</item>
+        <item>Juke</item>
+        <item>Leaf</item>
+    </string-array>
+
+    <string-array name="honda">
+        <item>Civic</item>
+        <item>CR-V</item>
+        <item>e</item>
+        <item>HR-V</item>
+        <item>Jazz</item>
+    </string-array>
+
+    <string-array name="weekdays">
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
+        <item>Sonntag</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>0:00 - 0:59</item>
+        <item>1:00 - 1:59</item>
+        <item>2:00 - 2:59</item>
+        <item>3:00 - 3:59</item>
+        <item>4:00 - 4:59</item>
+        <item>5:00 - 5:59</item>
+        <item>6:00 - 6:59</item>
+        <item>7:00 - 7:59</item>
+        <item>8:00 - 8:59</item>
+        <item>9:00 - 9:59</item>
+        <item>10:00 - 10:59</item>
+        <item>11:00 - 11:59</item>
+        <item>12:00 - 12:59</item>
+        <item>13:00 - 13:59</item>
+        <item>14:00 - 14:59</item>
+        <item>15:00 - 15:59</item>
+        <item>16:00 - 16:59</item>
+        <item>17:00 - 17:59</item>
+        <item>18:00 - 18:59</item>
+        <item>19:00 - 19:59</item>
+        <item>20:00 - 20:59</item>
+        <item>21:00 - 21:59</item>
+        <item>22:00 - 22:59</item>
+        <item>23:00 - 23:59</item>
+    </string-array>
+
+</resources>
